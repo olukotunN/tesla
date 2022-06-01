@@ -1,3 +1,5 @@
+print ( " clonning practice ")
+# this was done by neyo 
 print ('simon' )
 print ('ivo')
 # echo simon
